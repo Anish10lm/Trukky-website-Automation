@@ -1,0 +1,120 @@
+2024-01-24 15:13:27,783 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-24 15:18:11,681 [Worker-1: Creating project "TruckkysiteAutomation"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:TruckkysiteAutomation:0.0.1-SNAPSHOT @ C:\Users\20063\OneDrive\Desktop\Frugal_final\TruckkysiteAutomation\pom.xml.
+2024-01-24 15:18:12,388 [Worker-1: Creating project "TruckkysiteAutomation"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TruckkysiteAutomation/src/main/java
+2024-01-24 15:18:12,390 [Worker-1: Creating project "TruckkysiteAutomation"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TruckkysiteAutomation/src/main/resources
+2024-01-24 15:18:12,399 [Worker-1: Creating project "TruckkysiteAutomation"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TruckkysiteAutomation/src/test/java
+2024-01-24 15:18:12,400 [Worker-1: Creating project "TruckkysiteAutomation"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TruckkysiteAutomation/src/test/resources
+2024-01-24 15:18:12,462 [Worker-1: Creating project "TruckkysiteAutomation"] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'J2SE-1.5', falling back to workspace default
+2024-01-24 15:18:13,386 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:18:13,394 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:18:13,399 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:18:13,401 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:22:35,173 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:22:35,177 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:22:35,181 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:22:35,218 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:23:29,337 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:TruckkysiteAutomation:0.0.1-SNAPSHOT @ C:\Users\20063\OneDrive\Desktop\Frugal_final\TruckkysiteAutomation\pom.xml.
+2024-01-24 15:23:30,002 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:23:30,006 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:23:30,011 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:23:30,013 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:35:50,605 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:TruckkyAutomation:0.0.1-SNAPSHOT @ C:\Users\20063\OneDrive\Desktop\Frugal_final\TruckkysiteAutomation\pom.xml.
+2024-01-24 15:35:51,078 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:35:51,081 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:35:51,084 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:35:51,085 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:35:55,426 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:35:55,427 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:35:55,429 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:35:55,431 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:45:02,144 [Worker-40: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:45:02,147 [Worker-40: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:45:02,152 [Worker-40: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:45:02,155 [Worker-40: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:46:02,841 [Worker-33: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:46:02,845 [Worker-33: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:46:02,849 [Worker-33: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:46:02,851 [Worker-33: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:50:19,986 [Worker-43: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:50:19,989 [Worker-43: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:50:19,994 [Worker-43: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:50:19,996 [Worker-43: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:51:21,955 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:51:21,957 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:51:21,962 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:51:21,966 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:52:37,783 [Worker-45: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:52:37,790 [Worker-45: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:52:37,800 [Worker-45: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:52:37,810 [Worker-45: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:55:50,206 [Worker-44: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:55:50,209 [Worker-44: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 15:55:50,214 [Worker-44: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 15:55:50,220 [Worker-44: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:01:30,033 [Worker-47: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:01:30,037 [Worker-47: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:01:30,046 [Worker-47: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:01:30,052 [Worker-47: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:03:59,290 [Worker-52: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:03:59,294 [Worker-52: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:03:59,300 [Worker-52: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:03:59,304 [Worker-52: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:05:43,615 [Worker-57: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:05:43,617 [Worker-57: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:05:43,619 [Worker-57: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:05:43,624 [Worker-57: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:07:29,863 [Worker-57: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:07:29,866 [Worker-57: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:07:29,869 [Worker-57: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:07:29,873 [Worker-57: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:12:05,648 [Worker-57: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:12:05,653 [Worker-57: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:12:05,657 [Worker-57: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:12:05,665 [Worker-57: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:13:17,509 [Worker-64: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:13:17,511 [Worker-64: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:13:17,517 [Worker-64: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:13:17,519 [Worker-64: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:15:47,708 [Worker-66: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:15:47,712 [Worker-66: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:15:47,716 [Worker-66: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:15:47,721 [Worker-66: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:22:32,030 [Worker-68: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:22:32,044 [Worker-68: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:22:32,055 [Worker-68: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:22:32,064 [Worker-68: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:24:11,799 [Worker-69: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:24:11,803 [Worker-69: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:24:11,808 [Worker-69: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:24:11,811 [Worker-69: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:29:36,772 [Worker-62: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:29:36,774 [Worker-62: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:29:36,777 [Worker-62: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:29:36,781 [Worker-62: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:30:59,521 [Worker-75: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:30:59,524 [Worker-75: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:30:59,527 [Worker-75: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:30:59,530 [Worker-75: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:36:35,143 [Worker-75: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:36:35,146 [Worker-75: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:36:35,149 [Worker-75: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:36:35,151 [Worker-75: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:40:48,613 [Worker-77: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:40:48,623 [Worker-77: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:40:48,632 [Worker-77: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:40:48,640 [Worker-77: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:42:23,458 [Worker-81: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:42:23,460 [Worker-81: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:42:23,464 [Worker-81: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:42:23,467 [Worker-81: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:45:26,737 [Worker-83: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:45:26,740 [Worker-83: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:45:26,743 [Worker-83: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:45:26,747 [Worker-83: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:46:10,108 [Worker-81: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:46:10,110 [Worker-81: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 16:46:10,115 [Worker-81: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 16:46:10,119 [Worker-81: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-01-24 21:34:54,799 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-24 21:37:07,077 [Worker-17: Launching TrckkysiteAutomation] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-01-24 21:37:07,086 [Worker-17: Launching TrckkysiteAutomation] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
